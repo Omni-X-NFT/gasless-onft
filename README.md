@@ -17,5 +17,7 @@ npx hardhat xdeploy
 ```
 
 # Verify
+```
 npx hardhat verifyAll --e testnet --addr [deployed_address]
+```
 
