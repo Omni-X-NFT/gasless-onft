@@ -1,0 +1,18 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
+package-lock.json
+yarn.lock
+.idea
+
+#Whitelists
+constants/og
+

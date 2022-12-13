@@ -1,0 +1,82 @@
+{
+    "goerli": {
+      "name": "Milady (ETH)",
+      "symbol": "MLD",
+      "startMintId": 0,
+      "endMintId": 999,
+      "maxTokensPerMint": 5,
+      "baseTokenURI": "https://www.miladymaker.net/milady/json/",
+      "hiddenURI": "https://www.miladymaker.net/milady/json/",
+      "price": "50000000"
+    },
+    "bsc-testnet": {
+      "name": "Milady (BSC)",
+      "symbol": "MLD",
+      "startMintId": 1000,
+      "endMintId": 1999,
+      "maxTokensPerMint": 5,
+      "baseTokenURI": "https://www.miladymaker.net/milady/json/",
+      "hiddenURI": "https://www.miladymaker.net/milady/json/",
+      "price": "50000000000000000000"
+    },
+    "fuji": {
+      "name": "Milady (AVX)",
+      "symbol": "MLD",
+      "startMintId": 2000,
+      "endMintId": 2999,
+      "maxTokensPerMint": 5,
+      "baseTokenURI": "https://www.miladymaker.net/milady/json/",
+      "hiddenURI": "https://www.miladymaker.net/milady/json/",
+      "price": "50000000"
+    },
+    "mumbai": {
+      "name": "Milady (POL)",
+      "symbol": "MLD",
+      "startMintId": 3000,
+      "endMintId": 3999,
+      "maxTokensPerMint": 5,
+      "baseTokenURI": "https://www.miladymaker.net/milady/json/",
+      "hiddenURI": "https://www.miladymaker.net/milady/json/",
+      "price": "50000000"
+    },
+    "fantom-testnet": {
+      "name": "Milady (FTM)",
+      "symbol": "MLD",
+      "startMintId": 4000,
+      "endMintId": 4999,
+      "maxTokensPerMint": 5,
+      "baseTokenURI": "https://www.miladymaker.net/milady/json/",
+      "hiddenURI": "https://www.miladymaker.net/milady/json/",
+      "price": "50000000"
+    },
+    "arbitrum-goerli": {
+      "name": "Milady (ARB)",
+      "symbol": "MLD",
+      "startMintId": 5000,
+      "endMintId": 5999,
+      "maxTokensPerMint": 5,
+      "baseTokenURI": "https://www.miladymaker.net/milady/json/",
+      "hiddenURI": "https://www.miladymaker.net/milady/json/",
+      "price": "50000000"
+    },
+    "optimism-goerli": {
+        "name": "Milady (OPT)",
+        "symbol": "MLD",
+        "startMintId": 6000,
+        "endMintId": 9999,
+        "maxTokensPerMint": 5,
+        "baseTokenURI": "https://www.miladymaker.net/milady/json/",
+        "hiddenURI": "https://www.miladymaker.net/milady/json/",
+        "price": "50000000"
+    },
+    "moonbeam_testnet": {
+      "name": "Milady (DEV)",
+      "symbol": "MLD",
+      "startMintId": 6000,
+      "endMintId": 9999,
+      "maxTokensPerMint": 5,
+      "baseTokenURI": "https://www.miladymaker.net/milady/json/",
+      "hiddenURI": "https://www.miladymaker.net/milady/json/",
+      "price": "50000000000000000000"
+    }
+  }

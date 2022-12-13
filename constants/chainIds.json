@@ -1,0 +1,26 @@
+{
+  "ethereum": 101,
+  "bsc": 102,
+  "avalanche": 106,
+  "polygon":  109,
+  "arbitrum": 110,
+  "optimism": 111,
+  "fantom": 112,
+
+  "rinkeby":          10001,
+  "goerli":           10121,
+  "bsc-testnet":      10102,
+  "fuji":             10106,
+  "mumbai":           10109,
+  "arbitrum-rinkeby": 10010,
+  "optimism-kovan":   10011,
+  "fantom-testnet":   10112,
+  "arbitrum-goerli":  10143,
+  "optimism-goerli":  10132,
+  "harmony-testnet":  10033,
+  "moonbeam-testnet": 10126,
+  "moonbeam_testnet": 10126,
+  "celo-testnet":     10025,
+
+  "localhost":        8001
+}
